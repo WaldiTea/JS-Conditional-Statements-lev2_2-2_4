@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  transition: background 0.5s;
+
+  form {
+    width: 40%;
+
+    input {
+      display: block;
+      width: 100%;
+    }
+
+    p {
+      font-weight: bold;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+body {
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  -webkit-transition: background 0.5s;
+  transition: background 0.5s;
+}
+
+body form {
+  width: 40%;
+}
+
+body form input {
+  display: block;
+  width: 100%;
+}
+
+body form p {
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
